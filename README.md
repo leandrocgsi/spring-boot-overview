@@ -1,8 +1,13 @@
 # Spring Boot Overview [REST API's RESTFul do 0 à AWS com Spring Boot 3, Java e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+
+
 ### [Desenvolva uma API REST do zero absoluto atendendo todos os níveis de maturidade RESTful e implante na AWS + React JS](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Continuous Integration with Github Actions](https://github.com/leandrocgsi/rest-with-spring-boot-and-java-erudio/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/rest-with-spring-boot-and-java-erudio/actions/workflows/continuous-integration.yml)
-[![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/rest-with-spring-boot-erudio.svg)](https://hub.docker.com/repository/docker/leandrocgsi/rest-with-spring-boot-erudio)
+![Forks](https://img.shields.io/github/forks/leandrocgsi/spring-boot-overview)
+![Stars](https://img.shields.io/github/stars/leandrocgsi/spring-boot-overview)
+![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/spring-boot-overview)
+[![Continuous Integration with Github Actions](https://github.com/leandrocgsi/spring-boot-overview/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/spring-boot-overview/actions/workflows/continuous-integration.yml)
+[![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/spring-boot-overview.svg)](https://hub.docker.com/repository/docker/leandrocgsi/spring-boot-overview)
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/rest_apis_restful_do_0_à_nuvem_com_spring_boot_2_e_docker.png?raw=true "REST API's RESTFul do 0 à AWS com Spring Boot 3, Java e Docker")](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-springboot-e-docker/?couponCode=GTHB_FLASH_SALE2021)
 
